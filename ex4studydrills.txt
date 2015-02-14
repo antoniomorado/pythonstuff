@@ -1,0 +1,18 @@
+The error says that in line 8 that the variable car_pool_capacity is not defined
+This is true because there is a typo. The actual variable is carpool_capacity.
+In other words car_pool_capacity is a variable that was never instantiated.
+
+1. No using 4.0 is not necessary in this instance, because the calculation resulted
+in a whole number. If we used 4 the calculated output would read 120 instead of 120.0
+
+2. Yes using 4.0 in a calculation causes the result to inherit the float format
+
+3. Already did
+
+4. = equals is used to assign values to variable names
+
+5. _ is an underscore character
+
+6. Type python and hit enter. It functions as a calculator with programming 
+variable assignment capabilities.
+
